@@ -22,7 +22,7 @@ export class PokemonService {
         this.handleExceptions(error)
     }
 
-    
+
   }
 
   findAll() {
